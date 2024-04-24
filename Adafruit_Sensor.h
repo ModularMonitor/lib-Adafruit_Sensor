@@ -222,3 +222,5 @@ public:
 };
 
 #endif
+
+#include "Adafruit_Sensor.ipp"
